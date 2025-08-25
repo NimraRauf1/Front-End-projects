@@ -29,7 +29,7 @@ responsive-sidebar/
 │── style.css # Styling and responsiveness
 │── script.js # Toggle button logic
 
-##Preview
+## Preview
 <img width="1158" height="815" alt="Screenshot 2025-08-25 at 6 41 49 PM" src="https://github.com/user-attachments/assets/fd1e0f6e-65e4-429e-a5bb-7b2f6f73a626" />
 
 
